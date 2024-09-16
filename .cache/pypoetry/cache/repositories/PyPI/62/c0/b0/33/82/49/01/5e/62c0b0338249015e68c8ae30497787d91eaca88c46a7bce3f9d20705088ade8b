@@ -1,0 +1,1 @@
+9999999999{"name": "peewee", "version": "3.17.6", "summary": "a little orm", "requires_dist": null, "requires_python": null, "files": [{"file": "peewee-3.17.6.tar.gz", "hash": "sha256:cea5592c6f4da1592b7cff8eaf655be6648a1f5857469e30037bf920c03fb8fb"}], "yanked": false, "_cache_version": "2.0.0"}
